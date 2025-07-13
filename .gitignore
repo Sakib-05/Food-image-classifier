@@ -2,6 +2,9 @@
 # Ignore the large dataset folder
 food-101/
 
+# --- macOS-Specific Ignores ---
+.DS_Store
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
